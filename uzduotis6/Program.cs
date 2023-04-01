@@ -17,7 +17,6 @@ namespace uzduotis6
             int skaicius = 5;
             int daugiklis = 0;
 
-
             Console.WriteLine($"{skaicius} * {daugiklis} = {skaicius * daugiklis++}");
             Console.WriteLine($"{skaicius} * {daugiklis} = {skaicius * daugiklis++}");
             Console.WriteLine($"{skaicius} * {daugiklis} = {skaicius * daugiklis++}");
@@ -42,12 +41,6 @@ namespace uzduotis6
             Console.WriteLine($"Duotas skaičius: {skaicius}");
             Console.Write($"{pirmasSkaitmuo} * {antrasSkaitmuo} = ");
             Console.WriteLine(pirmasSkaitmuo * antrasSkaitmuo);
-            
-
-
-
-
-
         }
     }
 }
